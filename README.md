@@ -9,7 +9,7 @@ a program created in python-2.7 with gui interface created with Tkinter
 
 =============================================================================
 
-Install python 2.7 and Tkinter
+Install Tkinter
 
 
 
