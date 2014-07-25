@@ -16,3 +16,6 @@ Install Tkinter
 
 =============================================================================
 To run the script, just open a terminal and browse to the folder where the code resides and run the command - $ python code.py
+
+
+In the gui interface, browse to the folder where your files to be organized are residing. Then input the types of files to be organized, in the form , 'format1, format2, format3, ...' (without quotes). Then press the organize button. Thats it, done. 
